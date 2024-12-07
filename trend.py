@@ -8,12 +8,11 @@ from sklearn.metrics import r2_score
 data = {
     "Month": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
     "Marketing Spend": [1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000, 5500, 6000, 6500],
-    "Holiday Season": [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0],
-    # Adding noise to the sales data to make predictions harder
+    "Holiday Season": [0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0],    
     "Sales": [2000, 2900, 2450, 2650, 3900, 3450, 3550, 4400, 3950, 4100, 4950, 4600]
 }
 
-# Convert data to DataFrame
+# Converting data to DataFrame
 df = pd.DataFrame(data)
 
 # Features (independent variables) and target (dependent variable)
