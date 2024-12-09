@@ -35,5 +35,5 @@ Python-based machine learning models leveraging scikit-learn to analyze sales da
 - For compatibility issues, ensure pip is updated:
   ```bash
   pip install --upgrade pip
-
+![alt text](https://github.com/ravenfire24/Machine-learning-Analyzing-data-trends./blob/1c73459da8a4c088860a395e5876d614386ce72a/screenshot%201.png)
 
