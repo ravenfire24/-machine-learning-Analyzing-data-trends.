@@ -2,6 +2,6 @@
 Python-based machine learning models leveraging scikit-learn to analyze sales data trends.
 
 
-[steps of installation scikit-learn.pdf](https://github.com/user-attachments/files/18046256/steps.of.installation.scikit-learn.pdf)
+
 
 
