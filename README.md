@@ -30,12 +30,13 @@ Python-based machine learning models leveraging scikit-learn to analyze sales da
   import sklearn
   print(sklearn.__version__)
 - If no errors appear and the version is printed, scikit-learn is successfully installed.
-## Troubleshooting
-- If you encounter permission issues, try
-  ```bash
-  pip install scikit-learn –user
-- For compatibility issues, ensure pip is updated:
-  ```bash
-  pip install --upgrade pip
-![alt text](https://github.com/ravenfire24/Machine-learning-Analyzing-data-trends./blob/1c73459da8a4c088860a395e5876d614386ce72a/screenshot%201.png)
+## Step 4: install pandas and numpy
+```bash
+pip install pandas
+pip install numpy
+
+![text](https://github.com/ravenfire24/Machine-learning-Analyzing-data-trends./blob/1c73459da8a4c088860a395e5876d614386ce72a/screenshot%201.png)
+
+
+
 
