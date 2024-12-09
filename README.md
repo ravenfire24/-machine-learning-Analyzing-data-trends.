@@ -29,7 +29,7 @@ Python-based machine learning models leveraging scikit-learn to analyze sales da
   ```bash
   import sklearn
   print(sklearn.__version__)
-- If no errors appear and the version is printed, scikit-learn is successfully installed.
+
 ## Step 4: install pandas and numpy
 ```bash
 pip install pandas
