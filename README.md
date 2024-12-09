@@ -6,13 +6,13 @@ Python-based machine learning models leveraging scikit-learn to analyze sales da
 ## Step 1: Prerequisites
 - Ensure you have Python 3.7 or later installed. You can check by running
   ```bash
-  python –version
+  python –-version
 - Version 3
   ```bash
-  python3 –version
+  python3 –-version
 - Install pip, Python's package manager, if not already installed. You can check with
   ```bash
-  pip –version
+  pip –-version
 - Verison 3
   ```bash
    pip3 --version
