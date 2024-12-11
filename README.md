@@ -10,6 +10,12 @@ The project includes the following steps:
 3. **Evaluation**: Assessing the model's performance with R² accuracy metrics.
 4. **Prediction**: Predicting sales based on new input data
    
+## Features
+- **Dataset**: The dataset includes columns for `Month`, `Marketing Spend`, `Holiday Season`, and `Sales`.
+- **Machine Learning**: A linear regression model to analyze and predict sales trends.
+- **Metrics**: The R² score is used to evaluate model accuracy.
+- **Example Use Case**: Predicting sales for future months based on marketing spend and seasonality.   
+   
 ## Step 1: Prerequisites
 - Ensure you have Python 3.7 or later installed. You can check by running
   ```bash
