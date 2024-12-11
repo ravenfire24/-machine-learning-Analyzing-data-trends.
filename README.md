@@ -1,8 +1,15 @@
 # Sales Data Trend Analysis Using Python and Scikit-Learn
-Python-based machine learning models leveraging scikit-learn to analyze sales data trends.
+This project demonstrates the use of Python and scikit-learn to build machine learning models that analyze and predict sales trends. By leveraging a simple dataset, we explore how marketing spend, seasonal effects, and time impact sales.
 
 ![trend](https://github.com/ravenfire24/Machine-learning-Analyzing-data-trends./blob/47528c7cc6f4216a6a9dd077e5504b514e21d34f/Trend.gif)
 
+## Overview
+The project includes the following steps:
+1. **Data Preparation**: Loading sample sales data into a DataFrame, cleaning, and feature selection.
+2. **Model Training**: Using a Linear Regression model from scikit-learn to predict sales.
+3. **Evaluation**: Assessing the model's performance with R² accuracy metrics.
+4. **Prediction**: Predicting sales based on new input data
+   
 ## Step 1: Prerequisites
 - Ensure you have Python 3.7 or later installed. You can check by running
   ```bash
